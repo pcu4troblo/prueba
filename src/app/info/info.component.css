@@ -1,0 +1,13 @@
+.infor{
+    display: flex;
+    width: 100%;
+    min-height: 600px;
+    flex-direction: column;
+}
+.mostrar{
+    width: 40%;
+    position: relative;
+    top: 150px;
+    left: 30%;
+
+}
